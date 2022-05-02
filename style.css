@@ -1,0 +1,140 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-image: url(./images/main-header.jpg);
+  height: 250px;
+  background-size: cover;
+  padding-top: 200px;
+}
+
+.mainH1 {
+  background-color: hotpink;
+
+  color: rgb(204, 204, 200);
+  text-align: center;
+  height: 50px;
+  padding: 5px;
+  /* padding-top: 40px; */
+  align-content: center;
+}
+
+h2 {
+  background-color: rgb(218, 212, 212);
+  height: 40px;
+  color: rgb(226, 86, 226);
+  padding: 5px;
+}
+body {
+  background-color: rgb(182, 174, 174);
+}
+
+.main {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  padding: 30px;
+  margin-top: 40px;
+  background-color: rgb(235, 234, 231);
+}
+
+img {
+  width: 100px;
+  /* float: left; */
+  height: 100px;
+  /* margin: 5px; */
+  margin-top: 15px;
+  margin-right: 15px;
+  border-radius: 50%;
+  display: block;
+}
+p {
+  padding: 10px;
+}
+
+.lollyImg {
+  float: left;
+  border: 5px solid yellow;
+}
+
+.candyImg {
+  float: right;
+  border: 5px solid cyan;
+}
+
+.jellyImg {
+  float: left;
+  border: 5px solid hotpink;
+}
+
+h3 {
+  text-align: center;
+  margin: 20px;
+}
+
+.ulMain {
+  background-color: rgb(240, 146, 162);
+  list-style: none;
+  height: 90px;
+  padding: 10px;
+}
+.ulMain a {
+  text-decoration: none;
+  /* padding: 10px; */
+}
+.ulMain li {
+  padding: 2px;
+}
+.ulMain:hover {
+  background-color: yellow;
+}
+.ulMain li:hover {
+  background-color: rgb(240, 146, 162);
+  padding: 10px;
+}
+.dropLine {
+  padding-top: 50px;
+  margin-left: 50%;
+  padding-bottom: 20px;
+}
+
+.dropLine a {
+  /* margin-left: auto;
+  margin-right: auto; */
+}
+
+.headerContact {
+  background-image: url(./images/contact-header.jpeg);
+}
+
+h1 {
+  margin-top: 20px;
+  padding: 10px;
+}
+
+ul {
+  background-color: rgb(77, 190, 235);
+  margin: 20px;
+  list-style: none;
+  padding: 10px;
+}
+ul a {
+  text-decoration: none;
+  padding: 10px;
+}
+
+.navContact a {
+  text-decoration: none;
+  padding: 10px;
+  color: rgb(168, 31, 100);
+  font-weight: bold;
+}
+
+ul li:hover {
+  background-color: rgb(240, 146, 162);
+  padding: 5px;
+}
