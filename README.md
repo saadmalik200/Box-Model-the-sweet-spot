@@ -2,7 +2,7 @@
 
 Let's continue to improve **The Sweet Spot** by applying some semantic HTML as well as `padding` and `margin` to space things out a bit. Have a look at **v3** below -
 
-## ## Link
+## Link
 
 - Live Site URL: [https://saadmalik200.github.io/Box-Model-the-sweet-spot/](https://saadmalik200.github.io/Box-Model-the-sweet-spot/)
 
